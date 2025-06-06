@@ -9,13 +9,14 @@
 #### prueba html más Markdown 
 ##### prueba html más Markdown 
 ###### prueba html más Markdown 
+
 <picture>
 <img 
-alt="imagen que veremos:"
-src="htpps://lantigua21.com/programer.png"
-style="width:200px; height:200px;"
+  src="htpps://lantigua21.com/programer.png"
+  style="width:200  px; height:200  px;"
 >
 </picture>
+
 
 ## sobre mi
 hola soy carlos mi profesion en eventos deportivos
