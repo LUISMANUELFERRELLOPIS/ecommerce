@@ -12,8 +12,7 @@
 
 <picture>
 <img 
-  alt="imagen que veremos."
-  src="htps://lantigua21.com/programer.png"
+  src="htps://lantigua21.com/programmer.png"
   style="width:200px; height:200px;"
 >
 </picture>
@@ -60,10 +59,10 @@ hola soy carlos mi profesion en eventos deportivos
 
 2.Segundo nivel
 1.Subnivel 1
-   - Subnivel 2
-     - Subnivel 1
+  1 Subnivel 2
+     2 Subnivel 1
 3.Tercer nivel
-- Subnivel 1
-- Subnivel 2
+  1 Subnivel 1
+  2 Subnivel 2
 
   
