@@ -12,7 +12,7 @@
 
 <picture>
 <img 
-  src="htpps://lantigua21.com/programer.png"
+  src="htps://lantigua21.com/programer.png"
   style="width:200  px; height:200  px;"
 >
 </picture>
