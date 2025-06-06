@@ -10,8 +10,9 @@
 ##### prueba html más Markdown 
 ###### prueba html más Markdown 
 
+
 <picture>
-  <img src="https://lantigua21.com/programmer.png style="width: 200px; height: 200px; "> 
+  <img src="https://lantigua21.com/programmer.png" style="width: 200px; height: 200px; "> 
 </picture>
 
 
