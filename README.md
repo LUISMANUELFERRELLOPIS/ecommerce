@@ -9,9 +9,17 @@
 #### prueba html más Markdown 
 ##### prueba html más Markdown 
 ###### prueba html más Markdown 
+<picture>
+<img 
+alt="imagen que veremos:"
+src="htpps://lantigua21.com/programer.png"
+style="width:200px; height:200px;"
+>
+</picture>
 
 ## sobre mi
 hola soy carlos mi profesion en eventos deportivos
+
 ## sobre el proyecto.
 [ir a google.es] (https://wwww.google.com)
 ## Ejemplos de código.
@@ -45,6 +53,13 @@ hola soy carlos mi profesion en eventos deportivos
 -  Neftali de Jesús
 
 </details>
+
+1.Primer elemento
+
+2.Segundo nivel
+1.Subnivel 1
+   - Subnivel 2
+     - Subnivel 1
 
 
   
