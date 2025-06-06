@@ -12,8 +12,9 @@
 
 <picture>
 <img 
+  alt="imagen que veremos."
   src="htps://lantigua21.com/programer.png"
-  style="width:200  px; height:200  px;"
+  style="width:200px; height:200px;"
 >
 </picture>
 
