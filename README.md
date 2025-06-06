@@ -9,3 +9,42 @@
 #### prueba html más Markdown 
 ##### prueba html más Markdown 
 ###### prueba html más Markdown 
+
+## sobre mi
+hola soy carlos mi profesion en eventos deportivos
+## sobre el proyecto.
+[ir a google.es] (https://wwww.google.com)
+## Ejemplos de código.
+
+| rank |  languages |
+| -----| -----------|
+|      1|JavaScript |
+|      2| PHP       |
+|      3| SQL       |
+|      4| HTML5     |
+|      5| CSS       |
+
+<details>
+<sumary>listado de languges.</sumary>
+| rank |  languages |
+| -----| -----------|
+|      1|JavaScript |
+|      2| PHP       |
+|      3| SQL       |
+|      4| HTML5     |
+|      5| CSS       |
+  
+</details>
+<sumary>listado de alumnos</sumary>
+- Ana
+- Isabel
+- Carlos 
+- JJ
+-  David
+-  Joel
+-  Neftali de Jesús
+
+</details>
+
+
+  
