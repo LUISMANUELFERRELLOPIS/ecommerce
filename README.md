@@ -56,11 +56,11 @@ hola soy carlos mi profesion en eventos deportivos
 
 1.Primer elemento
 
-2.Segundo nivel
+2.Segundo elemento
 1.Subnivel 1
   1 Subnivel 2
      2 Subnivel 1
-3.Tercer nivel
+3.Tercer elemento
   1 Subnivel 1
   2 Subnivel 2
 
